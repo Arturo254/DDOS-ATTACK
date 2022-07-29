@@ -10,4 +10,6 @@ cd DDOS-ATTACK
 unzip ddos-attack.zip
 
 chmod +x *
+
+
 python2 ddos-attack.py
